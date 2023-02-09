@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-02-08T18:18:56 IST" name="Default suite" finished-at="2023-02-08T18:19:19 IST" duration-ms="22953">
+    <groups>
+    </groups>
+    <test started-at="2023-02-08T18:18:56 IST" name="Default test" finished-at="2023-02-08T18:19:19 IST" duration-ms="22953">
+      <class name="xml_To_json.TC_03_Post_CreateBooking_JSON_extract2">
+        <test-method is-config="true" signature="delayInEachIteration()[pri:0, instance:xml_To_json.TC_03_Post_CreateBooking_JSON_extract2@5a56cdac]" started-at="2023-02-08T18:18:56 IST" name="delayInEachIteration" finished-at="2023-02-08T18:18:59 IST" duration-ms="3016" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delayInEachIteration -->
+        <test-method signature="verifyCreateUserTest(java.lang.String,java.lang.String,org.testng.ITestContext)[pri:0, instance:xml_To_json.TC_03_Post_CreateBooking_JSON_extract2@5a56cdac]" started-at="2023-02-08T18:18:59 IST" name="verifyCreateUserTest" data-provider="SampleData" finished-at="2023-02-08T18:19:05 IST" duration-ms="6151" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Subasis]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Mohanty]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[org.testng.TestRunner@491b9b8]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyCreateUserTest -->
+        <test-method is-config="true" signature="delayInEachIteration()[pri:0, instance:xml_To_json.TC_03_Post_CreateBooking_JSON_extract2@5a56cdac]" started-at="2023-02-08T18:19:05 IST" name="delayInEachIteration" finished-at="2023-02-08T18:19:08 IST" duration-ms="3012" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delayInEachIteration -->
+        <test-method signature="verifyCreateUserTest(java.lang.String,java.lang.String,org.testng.ITestContext)[pri:0, instance:xml_To_json.TC_03_Post_CreateBooking_JSON_extract2@5a56cdac]" started-at="2023-02-08T18:19:08 IST" name="verifyCreateUserTest" data-provider="SampleData" finished-at="2023-02-08T18:19:10 IST" duration-ms="1613" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Srinivas]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Reddy Naini]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[org.testng.TestRunner@491b9b8]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyCreateUserTest -->
+        <test-method is-config="true" signature="delayInEachIteration()[pri:0, instance:xml_To_json.TC_03_Post_CreateBooking_JSON_extract2@5a56cdac]" started-at="2023-02-08T18:19:10 IST" name="delayInEachIteration" finished-at="2023-02-08T18:19:13 IST" duration-ms="3006" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delayInEachIteration -->
+        <test-method signature="verifyCreateUserTest(java.lang.String,java.lang.String,org.testng.ITestContext)[pri:0, instance:xml_To_json.TC_03_Post_CreateBooking_JSON_extract2@5a56cdac]" started-at="2023-02-08T18:19:13 IST" name="verifyCreateUserTest" data-provider="SampleData" finished-at="2023-02-08T18:19:14 IST" duration-ms="1453" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Sridevi]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Bavisetti]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[org.testng.TestRunner@491b9b8]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyCreateUserTest -->
+        <test-method is-config="true" signature="delayInEachIteration()[pri:0, instance:xml_To_json.TC_03_Post_CreateBooking_JSON_extract2@5a56cdac]" started-at="2023-02-08T18:19:14 IST" name="delayInEachIteration" finished-at="2023-02-08T18:19:17 IST" duration-ms="3003" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delayInEachIteration -->
+        <test-method signature="verifyUpdateBookingTest(org.testng.ITestContext)[pri:1, instance:xml_To_json.TC_03_Post_CreateBooking_JSON_extract2@5a56cdac]" started-at="2023-02-08T18:19:17 IST" name="verifyUpdateBookingTest" finished-at="2023-02-08T18:19:19 IST" duration-ms="1585" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@491b9b8]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyUpdateBookingTest -->
+      </class> <!-- xml_To_json.TC_03_Post_CreateBooking_JSON_extract2 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

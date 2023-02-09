@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="TestSuite" time="7.344" tests="3" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="sun.desktop" value="windows"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.specification.version" value="11"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.class.path" value="C:\Users\Act\eclipse-workspace\IBM-workspace\com.restAssured.Jan27.apiTest\target\test-classes;C:\Users\Act\eclipse-workspace\IBM-workspace\com.restAssured.Jan27.apiTest\target\classes;C:\Users\Act\.m2\repository\com\googlecode\json-simple\json-simple\1.1.1\json-simple-1.1.1.jar;C:\Users\Act\.m2\repository\junit\junit\4.10\junit-4.10.jar;C:\Users\Act\.m2\repository\org\hamcrest\hamcrest-core\1.1\hamcrest-core-1.1.jar;C:\Users\Act\.m2\repository\io\rest-assured\rest-assured\5.3.0\rest-assured-5.3.0.jar;C:\Users\Act\.m2\repository\org\apache\groovy\groovy\4.0.6\groovy-4.0.6.jar;C:\Users\Act\.m2\repository\org\apache\groovy\groovy-xml\4.0.6\groovy-xml-4.0.6.jar;C:\Users\Act\.m2\repository\org\apache\httpcomponents\httpclient\4.5.13\httpclient-4.5.13.jar;C:\Users\Act\.m2\repository\org\apache\httpcomponents\httpcore\4.4.13\httpcore-4.4.13.jar;C:\Users\Act\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\Act\.m2\repository\commons-codec\commons-codec\1.11\commons-codec-1.11.jar;C:\Users\Act\.m2\repository\org\apache\httpcomponents\httpmime\4.5.13\httpmime-4.5.13.jar;C:\Users\Act\.m2\repository\org\hamcrest\hamcrest\2.1\hamcrest-2.1.jar;C:\Users\Act\.m2\repository\org\ccil\cowan\tagsoup\tagsoup\1.2.1\tagsoup-1.2.1.jar;C:\Users\Act\.m2\repository\io\rest-assured\json-path\5.3.0\json-path-5.3.0.jar;C:\Users\Act\.m2\repository\org\apache\groovy\groovy-json\4.0.6\groovy-json-4.0.6.jar;C:\Users\Act\.m2\repository\io\rest-assured\rest-assured-common\5.3.0\rest-assured-common-5.3.0.jar;C:\Users\Act\.m2\repository\io\rest-assured\xml-path\5.3.0\xml-path-5.3.0.jar;C:\Users\Act\.m2\repository\org\testng\testng\7.7.0\testng-7.7.0.jar;C:\Users\Act\.m2\repository\org\slf4j\slf4j-api\1.7.36\slf4j-api-1.7.36.jar;C:\Users\Act\.m2\repository\com\beust\jcommander\1.82\jcommander-1.82.jar;C:\Users\Act\.m2\repository\org\webjars\jquery\3.6.1\jquery-3.6.1.jar;C:\Users\Act\.m2\repository\org\json\json\20201115\json-20201115.jar;C:\Users\Act\.m2\repository\com\fasterxml\jackson\jaxrs\jackson-jaxrs-json-provider\2.13.4\jackson-jaxrs-json-provider-2.13.4.jar;C:\Users\Act\.m2\repository\com\fasterxml\jackson\jaxrs\jackson-jaxrs-base\2.13.4\jackson-jaxrs-base-2.13.4.jar;C:\Users\Act\.m2\repository\com\fasterxml\jackson\core\jackson-core\2.13.4\jackson-core-2.13.4.jar;C:\Users\Act\.m2\repository\com\fasterxml\jackson\core\jackson-databind\2.13.4\jackson-databind-2.13.4.jar;C:\Users\Act\.m2\repository\com\fasterxml\jackson\module\jackson-module-jaxb-annotations\2.13.4\jackson-module-jaxb-annotations-2.13.4.jar;C:\Users\Act\.m2\repository\com\fasterxml\jackson\core\jackson-annotations\2.13.4\jackson-annotations-2.13.4.jar;C:\Users\Act\.m2\repository\jakarta\xml\bind\jakarta.xml.bind-api\2.3.3\jakarta.xml.bind-api-2.3.3.jar;C:\Users\Act\.m2\repository\jakarta\activation\jakarta.activation-api\1.2.1\jakarta.activation-api-1.2.1.jar;C:\Users\Act\.m2\repository\log4j\log4j\1.2.17\log4j-1.2.17.jar;C:\Users\Act\.m2\repository\io\github\bonigarcia\webdrivermanager\4.4.3\webdrivermanager-4.4.3.jar;C:\Users\Act\.m2\repository\commons-io\commons-io\2.8.0\commons-io-2.8.0.jar;C:\Users\Act\.m2\repository\com\google\code\gson\gson\2.8.6\gson-2.8.6.jar;C:\Users\Act\.m2\repository\org\apache\commons\commons-lang3\3.12.0\commons-lang3-3.12.0.jar;C:\Users\Act\.m2\repository\org\apache\httpcomponents\client5\httpclient5\5.0.3\httpclient5-5.0.3.jar;C:\Users\Act\.m2\repository\org\apache\httpcomponents\core5\httpcore5\5.0.2\httpcore5-5.0.2.jar;C:\Users\Act\.m2\repository\org\apache\httpcomponents\core5\httpcore5-h2\5.0.2\httpcore5-h2-5.0.2.jar;C:\Users\Act\.m2\repository\org\rauschig\jarchivelib\1.1.0\jarchivelib-1.1.0.jar;C:\Users\Act\.m2\repository\org\apache\commons\commons-compress\1.20\commons-compress-1.20.jar;C:\Users\Act\.m2\repository\org\jsoup\jsoup\1.13.1\jsoup-1.13.1.jar;"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="https://openjdk.java.net/"/>
+    <property name="user.timezone" value="Asia/Calcutta"/>
+    <property name="java.vm.specification.version" value="11"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="IN"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-11.0.14\bin"/>
+    <property name="sun.java.command" value="C:\Users\Act\AppData\Local\Temp\surefire13208281602525283501\surefirebooter1040978625335207993.jar C:\Users\Act\AppData\Local\Temp\surefire13208281602525283501 2023-02-09T17-57-43_031-jvmRun1 surefire13128351455293751379tmp surefire_09181833541276578835tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="C:\Users\Act\eclipse-workspace\IBM-workspace\com.restAssured.Jan27.apiTest\target\test-classes;C:\Users\Act\eclipse-workspace\IBM-workspace\com.restAssured.Jan27.apiTest\target\classes;C:\Users\Act\.m2\repository\com\googlecode\json-simple\json-simple\1.1.1\json-simple-1.1.1.jar;C:\Users\Act\.m2\repository\junit\junit\4.10\junit-4.10.jar;C:\Users\Act\.m2\repository\org\hamcrest\hamcrest-core\1.1\hamcrest-core-1.1.jar;C:\Users\Act\.m2\repository\io\rest-assured\rest-assured\5.3.0\rest-assured-5.3.0.jar;C:\Users\Act\.m2\repository\org\apache\groovy\groovy\4.0.6\groovy-4.0.6.jar;C:\Users\Act\.m2\repository\org\apache\groovy\groovy-xml\4.0.6\groovy-xml-4.0.6.jar;C:\Users\Act\.m2\repository\org\apache\httpcomponents\httpclient\4.5.13\httpclient-4.5.13.jar;C:\Users\Act\.m2\repository\org\apache\httpcomponents\httpcore\4.4.13\httpcore-4.4.13.jar;C:\Users\Act\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\Act\.m2\repository\commons-codec\commons-codec\1.11\commons-codec-1.11.jar;C:\Users\Act\.m2\repository\org\apache\httpcomponents\httpmime\4.5.13\httpmime-4.5.13.jar;C:\Users\Act\.m2\repository\org\hamcrest\hamcrest\2.1\hamcrest-2.1.jar;C:\Users\Act\.m2\repository\org\ccil\cowan\tagsoup\tagsoup\1.2.1\tagsoup-1.2.1.jar;C:\Users\Act\.m2\repository\io\rest-assured\json-path\5.3.0\json-path-5.3.0.jar;C:\Users\Act\.m2\repository\org\apache\groovy\groovy-json\4.0.6\groovy-json-4.0.6.jar;C:\Users\Act\.m2\repository\io\rest-assured\rest-assured-common\5.3.0\rest-assured-common-5.3.0.jar;C:\Users\Act\.m2\repository\io\rest-assured\xml-path\5.3.0\xml-path-5.3.0.jar;C:\Users\Act\.m2\repository\org\testng\testng\7.7.0\testng-7.7.0.jar;C:\Users\Act\.m2\repository\org\slf4j\slf4j-api\1.7.36\slf4j-api-1.7.36.jar;C:\Users\Act\.m2\repository\com\beust\jcommander\1.82\jcommander-1.82.jar;C:\Users\Act\.m2\repository\org\webjars\jquery\3.6.1\jquery-3.6.1.jar;C:\Users\Act\.m2\repository\org\json\json\20201115\json-20201115.jar;C:\Users\Act\.m2\repository\com\fasterxml\jackson\jaxrs\jackson-jaxrs-json-provider\2.13.4\jackson-jaxrs-json-provider-2.13.4.jar;C:\Users\Act\.m2\repository\com\fasterxml\jackson\jaxrs\jackson-jaxrs-base\2.13.4\jackson-jaxrs-base-2.13.4.jar;C:\Users\Act\.m2\repository\com\fasterxml\jackson\core\jackson-core\2.13.4\jackson-core-2.13.4.jar;C:\Users\Act\.m2\repository\com\fasterxml\jackson\core\jackson-databind\2.13.4\jackson-databind-2.13.4.jar;C:\Users\Act\.m2\repository\com\fasterxml\jackson\module\jackson-module-jaxb-annotations\2.13.4\jackson-module-jaxb-annotations-2.13.4.jar;C:\Users\Act\.m2\repository\com\fasterxml\jackson\core\jackson-annotations\2.13.4\jackson-annotations-2.13.4.jar;C:\Users\Act\.m2\repository\jakarta\xml\bind\jakarta.xml.bind-api\2.3.3\jakarta.xml.bind-api-2.3.3.jar;C:\Users\Act\.m2\repository\jakarta\activation\jakarta.activation-api\1.2.1\jakarta.activation-api-1.2.1.jar;C:\Users\Act\.m2\repository\log4j\log4j\1.2.17\log4j-1.2.17.jar;C:\Users\Act\.m2\repository\io\github\bonigarcia\webdrivermanager\4.4.3\webdrivermanager-4.4.3.jar;C:\Users\Act\.m2\repository\commons-io\commons-io\2.8.0\commons-io-2.8.0.jar;C:\Users\Act\.m2\repository\com\google\code\gson\gson\2.8.6\gson-2.8.6.jar;C:\Users\Act\.m2\repository\org\apache\commons\commons-lang3\3.12.0\commons-lang3-3.12.0.jar;C:\Users\Act\.m2\repository\org\apache\httpcomponents\client5\httpclient5\5.0.3\httpclient5-5.0.3.jar;C:\Users\Act\.m2\repository\org\apache\httpcomponents\core5\httpcore5\5.0.2\httpcore5-5.0.2.jar;C:\Users\Act\.m2\repository\org\apache\httpcomponents\core5\httpcore5-h2\5.0.2\httpcore5-h2-5.0.2.jar;C:\Users\Act\.m2\repository\org\rauschig\jarchivelib\1.1.0\jarchivelib-1.1.0.jar;C:\Users\Act\.m2\repository\org\apache\commons\commons-compress\1.20\commons-compress-1.20.jar;C:\Users\Act\.m2\repository\org\jsoup\jsoup\1.13.1\jsoup-1.13.1.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\Act"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2022-01-18"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk-11.0.14"/>
+    <property name="file.separator" value="\"/>
+    <property name="basedir" value="C:\Users\Act\eclipse-workspace\IBM-workspace\com.restAssured.Jan27.apiTest"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="surefire.real.class.path" value="C:\Users\Act\AppData\Local\Temp\surefire13208281602525283501\surefirebooter1040978625335207993.jar"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="11.0.14+8-LTS-263"/>
+    <property name="user.name" value="Act"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="java.vendor.version" value="18.9"/>
+    <property name="localRepository" value="C:\Users\Act\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\Users\Act\AppData\Local\Temp\"/>
+    <property name="java.version" value="11.0.14"/>
+    <property name="user.dir" value="C:\Users\Act\eclipse-workspace\IBM-workspace\com.restAssured.Jan27.apiTest"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk-11.0.14\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\Common Files\Oracle\Java\javapath;D:\InstalledApps\Anaconda3;D:\InstalledApps\Anaconda3\Library\mingw-w64\bin;D:\InstalledApps\Anaconda3\Library\usr\bin;D:\InstalledApps\Anaconda3\Library\bin;D:\InstalledApps\Anaconda3\Scripts;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;D:\InstalledApps\nodes\;C:\ProgramData\chocolatey\bin;C:\Python310\;D:\InstalledApps\nodes;C:\Users\Act\AppData\Local\Android\Sdk\platform-tools;C:\Users\Act\AppData\Local\Android\Sdk\tools;C:\Users\Act\AppData\Local\Android\Sdk\tools\bin;C:\Program Files\Java\jdk-11.0.14\bin;C:\Program Files\Git\cmd;C:\Program Files\Git\bin;C:\Users\Act\AppData\Roaming\npm\node_modules\gauge;D:\download_tool\apache-maven-3.8.6\bin;C:\Program Files\PostgreSQL\11\bin;D:\InstalledApps\SoapUI-5.6.0\bin;C:\Program Files\Java\jdk1.8.0_231\bin;D:\download_tool\VSCode-win32-x64-1.67.1_latest;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\Act\AppData\Local\Microsoft\WindowsApps;C:\Users\Act\AppData\Roaming\npm;C:\Users\Act\AppData\Local\GitHubDesktop\bin;D:\InstalledApps\JetBrains\IntelliJ IDEA Community Edition 2021.3.2\bin;."/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.vm.version" value="11.0.14+8-LTS-263"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="55.0"/>
+  </properties>
+  <testcase name="verifyCreateUserTest[Abhay, Sr. Leader](1)" classname="reqres.TC_04_Post_CreateUser_DDT" time="4.854">
+    <system-out><![CDATA[Name: Abhay
+ROLE: Sr. Leader
+Request body: {"name":"Abhay","job":"Sr. Leader"}
+HTTP/1.1 201 Created
+Date: Thu, 09 Feb 2023 12:27:48 GMT
+Content-Type: application/json; charset=utf-8
+Content-Length: 85
+Connection: keep-alive
+X-Powered-By: Express
+Access-Control-Allow-Origin: *
+Etag: W/"55-oiGCNSb4jfOCthO9SuCvVlXG2dQ"
+Via: 1.1 vegur
+CF-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=XsyX47QSjpFWitekIo0J6yM%2B6iEUMdNfp3drqVndDybTeVEuNvCA9O6MHQmRAl5YpN1dYsbuZ500RcDuK0PH5Xg2dS%2FwsLha85MiuL8xXwKRBgnvB%2FSEK%2FD%2F%2Bg%3D%3D"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 796c99e6ae796ec5-BOM
+
+{
+    "name": "Abhay",
+    "job": "Sr. Leader",
+    "id": "795",
+    "createdAt": "2023-02-09T12:27:47.956Z"
+}
+]]></system-out>
+    <system-err><![CDATA[SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+log4j:WARN No appenders could be found for logger (org.apache.http.impl.conn.BasicClientConnectionManager).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+]]></system-err>
+  </testcase>
+  <testcase name="verifyCreateUserTest[Amit, Leader](2)" classname="reqres.TC_04_Post_CreateUser_DDT" time="0.61">
+    <system-out><![CDATA[Name: Amit
+ROLE: Leader
+Request body: {"name":"Amit","job":"Leader"}
+HTTP/1.1 201 Created
+Date: Thu, 09 Feb 2023 12:27:50 GMT
+Content-Type: application/json; charset=utf-8
+Content-Length: 80
+Connection: keep-alive
+X-Powered-By: Express
+Access-Control-Allow-Origin: *
+Etag: W/"50-mbnXpIAp5EzaJHMHAToud/+BFI0"
+Via: 1.1 vegur
+CF-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=P%2B82V%2B4jKsmutVRrG%2FRcMzMzCM%2BiMVZKPiLvmm5Qvsop37MN1kNMwHEDNUumX%2BM0%2FrpocYecg0OCtQQRCAGkeRNgg7RXcqirj5RmMJzk1K9zzV495mfV21%2Bscw%3D%3D"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 796c99f51b1c6efb-BOM
+
+{
+    "name": "Amit",
+    "job": "Leader",
+    "id": "122",
+    "createdAt": "2023-02-09T12:27:50.249Z"
+}
+]]></system-out>
+  </testcase>
+  <testcase name="verifyCreateUserTest[Nithya, Srm Manager](3)" classname="reqres.TC_04_Post_CreateUser_DDT" time="0.639">
+    <system-out><![CDATA[Name: Nithya
+ROLE: Srm Manager
+Request body: {"name":"Nithya","job":"Srm Manager"}
+HTTP/1.1 201 Created
+Date: Thu, 09 Feb 2023 12:27:50 GMT
+Content-Type: application/json; charset=utf-8
+Content-Length: 87
+Connection: keep-alive
+X-Powered-By: Express
+Access-Control-Allow-Origin: *
+Etag: W/"57-dy4Kdj8R673cP990wAjAIlb/OHA"
+Via: 1.1 vegur
+CF-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=ySyy4tNTwhLyGr7WMsBj1xcrDNVSRdYETK2dBmPp8Bo0e7foNRIDX3NbkSQkL%2F6N9zzlwb3NnQ5L4b28tbevOfV3T%2FXcAsZ4k6kpwnO%2FImioxxkD9XMPXYxEGw%3D%3D"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 796c99f8ebbb2dfd-BOM
+
+{
+    "name": "Nithya",
+    "job": "Srm Manager",
+    "id": "589",
+    "createdAt": "2023-02-09T12:27:50.868Z"
+}
+]]></system-out>
+  </testcase>
+</testsuite>
